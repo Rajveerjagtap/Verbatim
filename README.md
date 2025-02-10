@@ -10,6 +10,18 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+## 🖥️ Demo Interface
+
+![Verbatim Interface Demo](https://github.com/user-attachments/assets/e4250d55-6b0b-4323-b192-5ad68c80b938)
+
+Experience our intuitive user interface that features:
+- 🎯 Clean, modern design with a focus on usability
+- 📊 Split-view layout showing transcription and summary side by side
+- 🎛️ Simple audio recording controls
+- 📁 Drag-and-drop file upload support
+- 💫 Real-time processing status indicators
+- 📱 Fully responsive design for all devices
+
 ## 📝 Description
 
 Verbatim is an advanced lecture transcription and summarization tool that leverages cutting-edge AI technology to convert spoken lectures into text and generate concise summaries in real-time. Perfect for students, educators, and professionals who want to make their lectures more accessible and digestible.
